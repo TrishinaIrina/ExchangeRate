@@ -1,0 +1,13 @@
+C:\Users\irish\My documents\C#\ExchangeRate.Value\bin\Debug\ExchangeRate.Value.dll
+C:\Users\irish\My documents\C#\ExchangeRate.Value\bin\Debug\ExchangeRate.Value.pdb
+C:\Users\irish\My documents\C#\ExchangeRate.Value\obj\Debug\ExchangeRate.Value.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\ExchangeRate.Value\obj\Debug\ExchangeRate.Value.dll
+C:\Users\irish\My documents\C#\ExchangeRate.Value\obj\Debug\ExchangeRate.Value.pdb
+C:\Users\irish\My documents\C#\ExchangeRate.Value\bin\Debug\Newtonsoft.Json.dll
+C:\Users\irish\My documents\C#\ExchangeRate.Value\bin\Debug\RestSharp.dll
+C:\Users\irish\My documents\C#\ExchangeRate.Value\bin\Debug\Newtonsoft.Json.xml
+C:\Users\irish\My documents\C#\ExchangeRate.Value\bin\Debug\RestSharp.xml
+C:\Users\irish\My documents\C#\ExchangeRate.Value\obj\Debug\ExchangeRate.Value.csproj.CopyComplete
+C:\Users\irish\My documents\C#\ExchangeRate.Value\bin\Debug\LiteDB.dll
+C:\Users\irish\My documents\C#\ExchangeRate.Value\bin\Debug\LiteDB.xml
+C:\Users\irish\My documents\C#\ExchangeRate.Value\obj\Debug\ExchangeRate.Value.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\bin\Debug\ExchangeRate.OnlainApp.exe.config
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\bin\Debug\ExchangeRate.OnlainApp.exe
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\bin\Debug\ExchangeRate.OnlainApp.pdb
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\obj\Debug\ExchangeRate.OnlainApp.csprojAssemblyReference.cache
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\obj\Debug\ExchangeRate.OnlainApp.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\obj\Debug\ExchangeRate.OnlainApp.exe
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\obj\Debug\ExchangeRate.OnlainApp.pdb
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\obj\Debug\ExchangeRate.OnlainApp.csproj.CopyComplete
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\bin\Debug\ExchangeRate.Value.dll
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\bin\Debug\ExchangeRate.Value.pdb
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\bin\Debug\LiteDB.dll
+C:\Users\irish\My documents\C#\ExchangeRate.OnlainApp\bin\Debug\LiteDB.xml
